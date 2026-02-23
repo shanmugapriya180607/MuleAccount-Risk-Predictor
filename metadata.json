@@ -1,0 +1,8 @@
+
+{
+  "name": "MuleShield v2: AI-Powered AML & Graph Risk Engine",
+  "description": "High-fidelity fintech prototype for pre-transaction mule detection. Features real-time behavioral profiling, synthetic data generation, ML-simulated risk scoring, and interactive graph analysis for fraud ring detection.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
