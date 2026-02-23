@@ -1,20 +1,39 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Predictive Mule Account Prevention System (PMAPS)
 
-# Run and deploy your AI Studio app
+## Problem
 
-This contains everything you need to run your app locally.
+Traditional AML systems detect fraud only after money is transferred.
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+## Solution
 
-## Run Locally
+PMAPS predicts mule accounts early using AI, behavioral analysis, and graph intelligence.
 
-**Prerequisites:**  Node.js
+## Key Features
+
+• Early mule account prediction
+• Behavioral monitoring
+• Graph network detection
+• Risk scoring
+
+## Technologies
+
+Frontend: React
+Backend: Python
+Database: MySQL
+AI: Machine Learning
+
+## How to Run
+
+1. Install requirements
+2. Run backend
+3. Run frontend
+
+## Demo Video
+
+https://drive.google.com/file/d/1xJyNjBCYOwIsqeWfd6yGEcy1YHCqaWdh/view?usp=sharing
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Team
+
+SECURITY SENTINEL
+Hackathon: AI4Dev 2026
